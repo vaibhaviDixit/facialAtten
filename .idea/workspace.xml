@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19fa5f8f-dd00-4510-abef-393c9d4c0b93" name="Default Changelist" comment="" />
+    <list default="true" id="19fa5f8f-dd00-4510-abef-393c9d4c0b93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/photos/punam.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-05-2023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/Ankit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/Rakesh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/riya.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/face_recog_dlib_file" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2OHmciAg2hxopMMRTS3sgo5j1Sj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,6 +96,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1682441516898" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1683642144055">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1683642144055" />
     <state x="409" y="5" key="#main" timestamp="1682927216753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -96,30 +108,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="191" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1683134215302" />
-    <state width="1328" height="248" key="GridCell.Tab.0.bottom" timestamp="1683563315583">
+    <state width="1345" height="248" key="GridCell.Tab.0.bottom" timestamp="1683647902585">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="248" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1683563315583" />
-    <state width="1328" height="248" key="GridCell.Tab.0.center" timestamp="1683563315583">
+    <state width="1345" height="248" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1683647902585" />
+    <state width="1345" height="248" key="GridCell.Tab.0.center" timestamp="1683647902584">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="248" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1683563315583" />
-    <state width="1328" height="248" key="GridCell.Tab.0.left" timestamp="1683563315583">
+    <state width="1345" height="248" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1683647902584" />
+    <state width="1345" height="248" key="GridCell.Tab.0.left" timestamp="1683647902584">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="248" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1683563315583" />
-    <state width="1328" height="248" key="GridCell.Tab.0.right" timestamp="1683563315583">
+    <state width="1345" height="248" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1683647902584" />
+    <state width="1345" height="248" key="GridCell.Tab.0.right" timestamp="1683647902585">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="248" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1683563315583" />
+    <state width="1345" height="248" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1683647902585" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1683134242127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1683134242127" />
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1683561657649">
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1683642111371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1683561657649" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1683642111371" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1682442608831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
